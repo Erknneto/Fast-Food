@@ -1,0 +1,13 @@
+<meta>
+<info author="Erknneto" name="Fast Food" version="1" type="script" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" cache="false" />
+	
+	<file src="fonts/fast_food.ttf" cache="false"/>
+	
+	<file src="images/logo.png" cache="false"/>
+	<file src="images/burger.png" cache="false"/>
+	<file src="images/fries.png" cache="false"/>
+	<file src="images/pizza.png" cache="false"/>
+	<file src="images/soda.png" cache="false"/>
+</meta>
